@@ -16,5 +16,12 @@
 # Misc Tasks
 - [ ] fix servo motor design
       
-# assembly
+# Assembly
 - [ ] final assembly & testing
+
+# Visual Template
+![upper robotarm](https://howtomechatronics.com/wp-content/uploads/2018/09/robotic-arm-sholder-arm.jpg?ezimgfmt=ng:webp/ngcb2)
+
+### Templateproject
+[howtomechatronics exampleproject](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/)
+
