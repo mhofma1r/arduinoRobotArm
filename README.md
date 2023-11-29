@@ -18,10 +18,16 @@
       
 # Assembly
 - [ ] final assembly & testing
-
-# Visual Template
-![upper robotarm](https://howtomechatronics.com/wp-content/uploads/2018/09/robotic-arm-sholder-arm.jpg?ezimgfmt=ng:webp/ngcb2)
-
-### Templateproject
+# Templateproject
+This project i basically a copy of how to howtomechatronics robot arm project linked below:
 [howtomechatronics exampleproject](https://howtomechatronics.com/tutorials/arduino/diy-arduino-robot-arm-with-smartphone-control/)
+## Visual Template
+### arm
+![upper robotarm](https://howtomechatronics.com/wp-content/uploads/2018/09/robotic-arm-sholder-arm.jpg?ezimgfmt=ng:webp/ngcb2)
+### gripper
+![gripper & arm](https://howtomechatronics.com/wp-content/uploads/2018/09/Arduino-Robotic-Arm-3D-Printed.jpg?ezimgfmt=ng:webp/ngcb2)
+### base
+![base](https://howtomechatronics.com/wp-content/uploads/2018/09/assembling-the-robot-arm.jpg?ezimgfmt=ng:webp/ngcb2)
+
+
 
