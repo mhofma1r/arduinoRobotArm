@@ -5,6 +5,7 @@
 - [ ] robot Arm Base
 - [ ] robot Arm Base
 - [ ] robot Arm Gripper
+- [ ] robot Arm Bucket
 - [ ] servo motor mouts
 
       
